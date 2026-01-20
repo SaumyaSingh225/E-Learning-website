@@ -1,2 +1,29 @@
-# E-Learning-website
-This e-learning website is developed using HTML, CSS, and JavaScript. It provides learners with online study materials and interactive components, demonstrating core frontend web development concepts such as responsive design, dynamic content, and user-friendly navigation. The project is designed as a functional prototype for educational purposes.
+# E-Learning Website
+
+## 📌 Project Description
+A responsive and interactive E-Learning website developed using HTML, CSS, and JavaScript.  
+The platform provides online study materials, course listings, instructor details, and user authentication pages.
+
+## 🚀 Features
+- Responsive design for all screen sizes
+- Multiple pages (Home, Courses, Instructors, Login, Signup, Contact)
+- Clean and user-friendly UI
+- Static frontend prototype for educational use
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## 📸 Preview
+![Project Preview](preview.jpg)
+
+## 🔗 Live Demo
+(Enable GitHub Pages to add live link here)
+
+## 📂 How to Run Locally
+1. Clone the repository
+2. Open `index.html` in your browser
+
+---
+Developed by **Saumya Singh**
