@@ -19,7 +19,7 @@ The platform provides online study materials, course listings, instructor detail
 ![Project Preview](preview.jpg)
 
 ## 🔗 Live Demo
-(Enable GitHub Pages to add live link here)
+https://saumyasingh225.github.io/E-Learning-website/
 
 ## 📂 How to Run Locally
 1. Clone the repository
