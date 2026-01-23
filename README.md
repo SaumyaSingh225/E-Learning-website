@@ -19,7 +19,7 @@ The platform provides online study materials, course listings, instructor detail
 ![Project Preview](preview.jpg)
 
 ## 🔗 Live Demo
-https://saumyasingh225.github.io/E-Learning-website/
+https://subtle-kringle-0d4c8f.netlify.app/
 
 ## 📂 How to Run Locally
 1. Clone the repository
